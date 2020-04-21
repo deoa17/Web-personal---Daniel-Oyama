@@ -383,7 +383,7 @@ footer {
         width: 100%;
     }
     h1 {
-        font-size: 2em;
+        font-size: 1.8em;
         z-index: 2;
     }
 }
@@ -446,6 +446,7 @@ footer {
     .project-imageContainer {
         width: auto;
         text-align: center;
+        margin-top: 12px;
     }
     .project-title {
         font-size: 1.4em;
